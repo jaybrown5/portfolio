@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+
+p {
+  margin: 10px;
+}
+
+.reverse {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+}
